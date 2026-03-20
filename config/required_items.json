@@ -1,0 +1,18 @@
+{
+  "required_functions": {
+    "build_inverted_index": {
+      "test_input": [["this is a doc", "this doc is about nlp"]],
+      "expected_type": "dict",
+      "points": 5
+    },
+    "query_processor": {
+      "test_input": ["doc", {"doc1": [0], "doc2": [1]}],
+      "expected_type": "list",
+      "points": 5
+    }
+  },
+  "required_markdown": {
+    "Introduction": 2,
+    "Reflection": 3
+  }
+}
