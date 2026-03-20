@@ -88,7 +88,5 @@ IRInvertedMatrix_Workshop/
 
 ```
 
----
- section, I can prepare that in the same clean style.
 
 
